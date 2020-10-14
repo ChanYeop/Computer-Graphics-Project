@@ -1,0 +1,114 @@
+﻿  main.cpp
+d:\학교\3-2\컴퓨터 그래픽스\학기 프로젝트\project\project\objparser.h(187): warning C4477: 'fprintf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'입니다.
+d:\학교\3-2\컴퓨터 그래픽스\학기 프로젝트\project\project\objparser.h(224): warning C4267: 'return': 'size_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\학교\3-2\컴퓨터 그래픽스\학기 프로젝트\project\project\variable.h(252): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+d:\학교\3-2\컴퓨터 그래픽스\학기 프로젝트\project\project\basicfun.h(513): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\학교\3-2\컴퓨터 그래픽스\학기 프로젝트\project\project\basicfun.h(525): warning C4805: '==': 연산에 'BOOL' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+d:\학교\3-2\컴퓨터 그래픽스\학기 프로젝트\project\project\basicfun.h(330): warning C4101: 'size' :참조되지 않은 지역 변수입니다.
+d:\학교\3-2\컴퓨터 그래픽스\학기 프로젝트\project\project\basicfun.h(631): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\학교\3-2\컴퓨터 그래픽스\학기 프로젝트\project\project\draw.h(119): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\학교\3-2\컴퓨터 그래픽스\학기 프로젝트\project\project\draw.h(125): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\학교\3-2\컴퓨터 그래픽스\학기 프로젝트\project\project\draw.h(126): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\학교\3-2\컴퓨터 그래픽스\학기 프로젝트\project\project\draw.h(127): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\학교\3-2\컴퓨터 그래픽스\학기 프로젝트\project\project\draw.h(128): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\학교\3-2\컴퓨터 그래픽스\학기 프로젝트\project\project\draw.h(133): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\학교\3-2\컴퓨터 그래픽스\학기 프로젝트\project\project\draw.h(134): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\학교\3-2\컴퓨터 그래픽스\학기 프로젝트\project\project\draw.h(135): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\학교\3-2\컴퓨터 그래픽스\학기 프로젝트\project\project\draw.h(136): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\학교\3-2\컴퓨터 그래픽스\학기 프로젝트\project\project\draw.h(141): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\학교\3-2\컴퓨터 그래픽스\학기 프로젝트\project\project\draw.h(142): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\학교\3-2\컴퓨터 그래픽스\학기 프로젝트\project\project\draw.h(143): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\학교\3-2\컴퓨터 그래픽스\학기 프로젝트\project\project\draw.h(144): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\학교\3-2\컴퓨터 그래픽스\학기 프로젝트\project\project\draw.h(149): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\학교\3-2\컴퓨터 그래픽스\학기 프로젝트\project\project\draw.h(150): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\학교\3-2\컴퓨터 그래픽스\학기 프로젝트\project\project\draw.h(151): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\학교\3-2\컴퓨터 그래픽스\학기 프로젝트\project\project\draw.h(152): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\학교\3-2\컴퓨터 그래픽스\학기 프로젝트\project\project\draw.h(157): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\학교\3-2\컴퓨터 그래픽스\학기 프로젝트\project\project\draw.h(158): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\학교\3-2\컴퓨터 그래픽스\학기 프로젝트\project\project\draw.h(159): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\학교\3-2\컴퓨터 그래픽스\학기 프로젝트\project\project\draw.h(160): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\학교\3-2\컴퓨터 그래픽스\학기 프로젝트\project\project\draw.h(165): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\학교\3-2\컴퓨터 그래픽스\학기 프로젝트\project\project\draw.h(166): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\학교\3-2\컴퓨터 그래픽스\학기 프로젝트\project\project\draw.h(167): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\학교\3-2\컴퓨터 그래픽스\학기 프로젝트\project\project\draw.h(168): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\학교\3-2\컴퓨터 그래픽스\학기 프로젝트\project\project\draw.h(188): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\학교\3-2\컴퓨터 그래픽스\학기 프로젝트\project\project\draw.h(205): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\학교\3-2\컴퓨터 그래픽스\학기 프로젝트\project\project\draw.h(232): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\학교\3-2\컴퓨터 그래픽스\학기 프로젝트\project\project\draw.h(233): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\학교\3-2\컴퓨터 그래픽스\학기 프로젝트\project\project\draw.h(240): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\학교\3-2\컴퓨터 그래픽스\학기 프로젝트\project\project\draw.h(249): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\학교\3-2\컴퓨터 그래픽스\학기 프로젝트\project\project\draw.h(253): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\학교\3-2\컴퓨터 그래픽스\학기 프로젝트\project\project\draw.h(254): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\학교\3-2\컴퓨터 그래픽스\학기 프로젝트\project\project\draw.h(259): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\학교\3-2\컴퓨터 그래픽스\학기 프로젝트\project\project\draw.h(260): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\학교\3-2\컴퓨터 그래픽스\학기 프로젝트\project\project\draw.h(270): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\학교\3-2\컴퓨터 그래픽스\학기 프로젝트\project\project\draw.h(274): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\학교\3-2\컴퓨터 그래픽스\학기 프로젝트\project\project\draw.h(275): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\학교\3-2\컴퓨터 그래픽스\학기 프로젝트\project\project\draw.h(341): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\학교\3-2\컴퓨터 그래픽스\학기 프로젝트\project\project\game.h(142): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\학교\3-2\컴퓨터 그래픽스\학기 프로젝트\project\project\game.h(143): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\학교\3-2\컴퓨터 그래픽스\학기 프로젝트\project\project\game.h(144): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\학교\3-2\컴퓨터 그래픽스\학기 프로젝트\project\project\game.h(145): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\학교\3-2\컴퓨터 그래픽스\학기 프로젝트\project\project\game.h(148): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\학교\3-2\컴퓨터 그래픽스\학기 프로젝트\project\project\game.h(149): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\학교\3-2\컴퓨터 그래픽스\학기 프로젝트\project\project\game.h(150): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\학교\3-2\컴퓨터 그래픽스\학기 프로젝트\project\project\game.h(151): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\학교\3-2\컴퓨터 그래픽스\학기 프로젝트\project\project\game.h(154): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\학교\3-2\컴퓨터 그래픽스\학기 프로젝트\project\project\game.h(155): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\학교\3-2\컴퓨터 그래픽스\학기 프로젝트\project\project\game.h(156): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\학교\3-2\컴퓨터 그래픽스\학기 프로젝트\project\project\game.h(157): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\학교\3-2\컴퓨터 그래픽스\학기 프로젝트\project\project\game.h(160): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\학교\3-2\컴퓨터 그래픽스\학기 프로젝트\project\project\game.h(161): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\학교\3-2\컴퓨터 그래픽스\학기 프로젝트\project\project\game.h(162): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\학교\3-2\컴퓨터 그래픽스\학기 프로젝트\project\project\game.h(163): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\학교\3-2\컴퓨터 그래픽스\학기 프로젝트\project\project\game.h(166): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\학교\3-2\컴퓨터 그래픽스\학기 프로젝트\project\project\game.h(167): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\학교\3-2\컴퓨터 그래픽스\학기 프로젝트\project\project\game.h(168): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\학교\3-2\컴퓨터 그래픽스\학기 프로젝트\project\project\game.h(169): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\학교\3-2\컴퓨터 그래픽스\학기 프로젝트\project\project\game.h(172): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\학교\3-2\컴퓨터 그래픽스\학기 프로젝트\project\project\game.h(173): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\학교\3-2\컴퓨터 그래픽스\학기 프로젝트\project\project\game.h(174): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\학교\3-2\컴퓨터 그래픽스\학기 프로젝트\project\project\game.h(175): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\학교\3-2\컴퓨터 그래픽스\학기 프로젝트\project\project\game.h(293): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\학교\3-2\컴퓨터 그래픽스\학기 프로젝트\project\project\game.h(294): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\학교\3-2\컴퓨터 그래픽스\학기 프로젝트\project\project\game.h(307): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\학교\3-2\컴퓨터 그래픽스\학기 프로젝트\project\project\game.h(316): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\학교\3-2\컴퓨터 그래픽스\학기 프로젝트\project\project\game.h(320): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\학교\3-2\컴퓨터 그래픽스\학기 프로젝트\project\project\game.h(321): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\학교\3-2\컴퓨터 그래픽스\학기 프로젝트\project\project\game.h(326): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\학교\3-2\컴퓨터 그래픽스\학기 프로젝트\project\project\game.h(327): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\학교\3-2\컴퓨터 그래픽스\학기 프로젝트\project\project\game.h(338): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\학교\3-2\컴퓨터 그래픽스\학기 프로젝트\project\project\game.h(344): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\학교\3-2\컴퓨터 그래픽스\학기 프로젝트\project\project\game.h(345): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\학교\3-2\컴퓨터 그래픽스\학기 프로젝트\project\project\game.h(469): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+d:\학교\3-2\컴퓨터 그래픽스\학기 프로젝트\project\project\game.h(470): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\학교\3-2\컴퓨터 그래픽스\학기 프로젝트\project\project\game.h(471): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+d:\학교\3-2\컴퓨터 그래픽스\학기 프로젝트\project\project\game.h(477): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+d:\학교\3-2\컴퓨터 그래픽스\학기 프로젝트\project\project\game.h(478): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\학교\3-2\컴퓨터 그래픽스\학기 프로젝트\project\project\game.h(479): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+d:\학교\3-2\컴퓨터 그래픽스\학기 프로젝트\project\project\game.h(482): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+d:\학교\3-2\컴퓨터 그래픽스\학기 프로젝트\project\project\game.h(604): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+d:\학교\3-2\컴퓨터 그래픽스\학기 프로젝트\project\project\game.h(2719): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\학교\3-2\컴퓨터 그래픽스\학기 프로젝트\project\project\main.cpp(38): warning C4244: '=': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\학교\3-2\컴퓨터 그래픽스\학기 프로젝트\project\project\main.cpp(39): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\학교\3-2\컴퓨터 그래픽스\학기 프로젝트\project\project\main.cpp(40): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\학교\3-2\컴퓨터 그래픽스\학기 프로젝트\project\project\main.cpp(41): warning C4244: '=': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\학교\3-2\컴퓨터 그래픽스\학기 프로젝트\project\project\main.cpp(56): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\학교\3-2\컴퓨터 그래픽스\학기 프로젝트\project\project\main.cpp(57): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\학교\3-2\컴퓨터 그래픽스\학기 프로젝트\project\project\main.cpp(62): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\학교\3-2\컴퓨터 그래픽스\학기 프로젝트\project\project\main.cpp(94): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\학교\3-2\컴퓨터 그래픽스\학기 프로젝트\project\project\main.cpp(103): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\학교\3-2\컴퓨터 그래픽스\학기 프로젝트\project\project\main.cpp(308): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+d:\학교\3-2\컴퓨터 그래픽스\학기 프로젝트\project\project\main.cpp(308): warning C4244: '초기화 중': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\학교\3-2\컴퓨터 그래픽스\학기 프로젝트\project\project\main.cpp(325): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\학교\3-2\컴퓨터 그래픽스\학기 프로젝트\project\project\main.cpp(326): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\학교\3-2\컴퓨터 그래픽스\학기 프로젝트\project\project\main.cpp(327): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\학교\3-2\컴퓨터 그래픽스\학기 프로젝트\project\project\main.cpp(328): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\학교\3-2\컴퓨터 그래픽스\학기 프로젝트\project\project\main.cpp(333): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\학교\3-2\컴퓨터 그래픽스\학기 프로젝트\project\project\main.cpp(334): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다.
+  2 of 790 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  Project.vcxproj -> D:\학교\3-2\컴퓨터 그래픽스\학기 프로젝트\Project\x64\Release\Project.exe
